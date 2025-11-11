@@ -31,31 +31,33 @@ A mobile-first, production-ready application that helps you track, analyze, and 
 
 ### 📹 Demo Video
 <!-- Add your demo video link here -->
-🎬 **[Watch the Demo](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/VID-20251001-WA0005.mp4)** - See the app in action!
+🎬 **[Watch the Demo](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/VID-20251001-WA0005%20(1).mp4)** - See the app in action!
 
 ### 📷 Screenshots
+#### Home Page View
+<!-- Add your home page screenshot -->
+![Home Page](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/Screenshot%202025-10-22%20205020.png)
+
+
+
 
 #### Dashboard View
 <!-- Add your dashboard screenshot -->
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/Screenshot%202025-10-22%20205102.png)
 
 #### AI Assistant
 <!-- Add your AI assistant screenshot -->
-![AI Assistant](./screenshots/ai-assistant.png)
+![AI Assistant](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/IMG-20251022-WA0053.jpg)
 
 #### Bank Connection
 <!-- Add your bank connection screenshot -->
-![Bank Connection](./screenshots/bank-connection.png)
+![Bank Connection](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/Screenshot%202025-10-22%20205031.png)
 
 #### Transaction Analytics
 <!-- Add your analytics screenshot -->
-![Analytics](./screenshots/analytics.png)
+![Analytics](https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/Screenshot%202025-10-22%20205102.png)
 
-#### Mobile View
-<!-- Add your mobile view screenshot -->
-![Mobile View](./screenshots/mobile-view.png)
 
-> 💡 **Note:** Replace the image paths above with your actual screenshot paths. Recommended folder structure: `./screenshots/` or `./docs/images/`
 
 ---
 
