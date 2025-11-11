@@ -1,0 +1,183 @@
+# Dependencies
+node_modules/
+**/node_modules/
+# Note: package.json and package-lock.json are kept for dependency tracking
+# yarn.lock
+# pnpm-lock.json
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+.env.test
+*.env
+**/.env
+**/.env.local
+
+# Build outputs
+dist/
+build/
+**/dist/
+**/build/
+*.tsbuildinfo
+*.map
+*.js.map
+*.d.ts.map
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+logs/
+*.log.*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Testing
+coverage/
+.nyc_output/
+.jest/
+*.test.js.snap
+test-*.js
+**/test-*.js
+test-*.ps1
+test-*.sh
+verify-*.js
+**/verify-*.js
+
+# Production and security
+*.pem
+*.key
+*.crt
+*.cert
+*.csr
+secrets/
+*.secret
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/
+mongodb-data/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+.cache/
+
+# Test files with credentials
+test_user.json
+*_test.json
+*_test_data.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# React
+.react/
+
+# Unnecessary documentation files (keep only essential README.md)
+ADVANCED_INSIGHTS_IMPLEMENTATION.md
+AI_CHAT_ASSISTANT.md
+AUTHENTICATION_FLOW.md
+COMPREHENSIVE_TESTING.md
+CURRENCY_FIX.md
+CURRENCY_FIX_SUMMARY.md
+DATA_SHARING_FIX.md
+DATA_SHARING_TEST.md
+DEPLOYMENT.md
+DEVICE_AUTH_SETUP.md
+ERROR_FIXES.md
+FINAL_TESTING_STEPS.md
+GITIGNORE_SUMMARY.md
+GOALS_COMPLETE.md
+IMPLEMENTATION_COMPLETE_SUMMARY.md
+IMPLEMENTATION_STATUS.md
+IMPLEMENTATION_SUMMARY.md
+PHONEPE_IMPLEMENTATION.md
+PRODUCTION_READY_VERIFICATION.md
+PROJECT_SUMMARY.md
+QUICK_START_AI_CHAT.md
+QUICK_START.md
+QUICKSTART.md
+REAL_TIME_DATA_FIXES.md
+REDESIGN_PLAN.md
+SECURITY_CLEANUP_SUMMARY.md
+SETUP_COMPLETE.md
+START_HERE.md
+SYNC_FIX.md
+TEST_RESULTS.md
+TESTING_GUIDE.md
+VERIFICATION_CHECKLIST.md
+VISUALIZATION_FIX_COMPLETE.md
+VISUALIZATIONS_STATUS.md
+
+# Setup and utility scripts (optional - uncomment if you don't want to commit these)
+# setup.ps1
+# setup.sh
+# start-app.ps1
+# start-server.js
+# configure-env.ps1
+# test-gemini-curl.ps1
+
+# Server-specific unnecessary files
+server/dist/
+server/test-*.js
+server/verify-*.js
+server/PRODUCTION.md
+server/*.md
+
+# Client-specific unnecessary files
+client/dist/
+client/node_modules/
+
+# Misc
+.vercel
+.netlify
+.next
+.nuxt
+.cache
+.parcel-cache
+
+# Icon files in root (keep public folder icons)
+icon-*.png
+icon-*.txt
