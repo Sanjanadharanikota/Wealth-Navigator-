@@ -5,6 +5,37 @@
 A mobile-first, production-ready application that helps you track, analyze, and improve your financial health — powered by **AI**, **Plaid banking**, and **WebAuthn security**.
 
 ---
+## 📑 Table of Contents
+
+- [Live Demo](#-live-demo)
+- [Preview](#-preview)
+- [Videos & Photos](#-videos--photos)
+- [Overview](#-overview)
+- [Features](#-features)
+  - [Security & Authentication](#-security--authentication)
+  - [Banking Integration](#-banking-integration)
+  - [Analytics & Insights](#-analytics--insights)
+  - [AI Chat Assistant (Dual Mode)](#-ai-chat-assistant-dual-mode)
+  - [UI--UX](#-ui--ux)
+- [Tech Stack](#-tech-stack)
+- [Architecture](#-architecture)
+- [Technical Overview](#-technical-overview)
+- [User View](#-user-view)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Run Locally](#-run-locally)
+- [Docker Setup](#-docker-setup)
+- [Environment Variables](#-environment-variables)
+- [AI Assistant Examples](#-ai-assistant-examples)
+- [Plaid Sandbox Test Login](#-plaid-sandbox-test-login)
+- [API Endpoints](#-api-endpoints)
+- [Security Best Practices](#-security-best-practices)
+- [Deployment](#-deployment)
+- [Testing](#-testing)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
 
 ## 🌐 Live Demo
 
