@@ -161,7 +161,19 @@ Plaid API  •  Gemini AI  •  MongoDB (Encrypted)
 ```
 
 ---
+## 🏗️ Technical Overview
 
+<a href="https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/TechnicalOverview.png">
+  <img src="https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/TechnicalOverview.png" width="600">
+</a>
+
+---
+## 👤 User View
+
+<a href="https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/UserView.png">
+  <img src="https://github.com/Sanjanadharanikota/Wealth-Navigator-/blob/main/UserView.png" width="600">
+</a>
+---
 ## 🧰 Prerequisites
 
 - Node.js **v20+**
